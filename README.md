@@ -1,5 +1,6 @@
 # MyVimrc
 
+```
 " Configuration file for vim
 set modelines=0		" CVE-2007-2438
 
@@ -53,3 +54,5 @@ set mouse=i
 
 set scrolloff=3
 " 光标移动到buffer的顶部和底部时保持3行距离
+
+```
